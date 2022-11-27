@@ -1,4 +1,6 @@
-# Hackintosh-HP-ProDesk-600-G3-mini
+![System](https://user-images.githubusercontent.com/18267888/204154196-ebf7decf-fee0-47ad-828b-f344e5aecf00.png)
+
+
 EFI für HP ProDesk 600 G3 mini / Intel i5 - 16GB RAM / Intel HD 630
 
 
@@ -21,4 +23,5 @@ framebuffer-conf0-type 00080000
 
 Viel Spass 
 
-![System](https://user-images.githubusercontent.com/18267888/204154108-8d6d3fa6-64f1-4f27-b9c7-2c68df42e5e8.png)
+
+
